@@ -1,0 +1,24 @@
+.header {
+  background-color: rgb(40, 45, 56);
+  width: auto;
+  height: 9vh;
+}
+
+.textLogo {
+  font-family: 'Anton', sans-serif;
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+}
+.textHeader {
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: whitesmoke;
+}
+.textHeader:hover {
+  color: rgb(211, 203, 203);
+}
